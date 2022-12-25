@@ -1,0 +1,8 @@
+{
+  "field_required_message": "هذه الحقل مطلوبه",
+  "error_message": "هناك خطأ ما",
+  "retry": "أعد المحاولة",
+  "no_internet_connection_message": "لا يوجد اتصال بالإنترنت",
+  "access_denied_message": "تم رفض الوصول ، ليس لديك امتيازات كافية",
+  "password_length_error_message": "يجب أن تتكون كلمة المرور من 8 أرقام على الأقل"
+}
